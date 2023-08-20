@@ -1,0 +1,16 @@
+{
+  "Open_In_Browser": false,
+  
+  "Services":{
+    "Twitch":{
+      "simple_method": true,
+      "api_method": false,
+      "Authentication": {
+        "client_id": "",
+        "client_secret": ""
+      }
+    },
+    "YouTube":{},
+    "Kick":{}
+  }
+}
