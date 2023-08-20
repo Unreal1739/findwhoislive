@@ -14,7 +14,7 @@ Never miss another stream again!
 
 ## Installation:
 Go to [python.org](https://www.python.org/downloads/) and download the latest python release.  
-Go to [findwhoislive releases](https://github.com/okayah/findwhoislive/releases/latest/) and download the latest release.  
+Go to [findwhoislive releases](https://github.com/Unreal1739/findwhoislive/releases/latest/) and download the latest release.  
 Go to [ChromeDriver @ Chromium.org](https://chromedriver.chromium.org/downloads) and download the latest chromedriver.exe (**OPTIONAL, REQUIRED FOR KICK**)  
 Unzip the compressed file into a directory of your choice.  
 Drag and drop the downloaded ChromeDriver into the same folder as the script. (**OPTIONAL, REQUIRED FOR KICK**)  
